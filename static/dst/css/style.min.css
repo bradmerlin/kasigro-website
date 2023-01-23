@@ -43,6 +43,9 @@ p {
 .links {
   margin-left: auto;
 }
+.links a {
+  text-decoration: underline;
+}
 
 .container {
   margin: 0 auto;
